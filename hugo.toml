@@ -1,5 +1,5 @@
 baseURL = 'https://zh1995.github.io/'
-languageCode = 'en-us'
+languageCode = 'cn'
 title = 'Final World'
 theme = 'smol'
 copyright = "ZH1995"
@@ -23,9 +23,9 @@ copyright = "ZH1995"
         weight = 2 
 
     [[menu.main]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags/"
+        identifier = "about"
+        name = "About"
+        url = "/about/"
         weight = 3
 
 # Footer
