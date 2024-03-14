@@ -1,11 +1,11 @@
 baseURL = 'https://zh1995.github.io/'
 languageCode = 'cn'
-title = '桃花源'
+title = '贺老师日常叨逼叨'
 theme = 'smol'
 copyright = "ZH1995"
 # Parameters
 [params]
-    subtitle = "我的庄稼地!"
+    subtitle = "来学习的!"
     dateFmt = "02.01.2006 15:04"
 
 # Header
